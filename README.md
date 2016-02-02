@@ -1,6 +1,11 @@
 # Scoreview-Base
 Scoreview is a tool to analyse music and learn how to play it on various instruments.
 
+This is a Fork to experiment with the following:
+- Android port of the practice window.
+- Flac and wav suport
+- Research in signal processing
+
 Command to build it:
 
 make project
